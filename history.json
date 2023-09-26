@@ -1,0 +1,30 @@
+{"url": "http://127.0.0.1:5000/api/batsmen-record/Sachin%20tendulkar", "query": "/api/batsmen-record/Sachin tendulkar?"}
+{"url": "http://127.0.0.1:5000/api/batsmen-record/Virat%20kohli", "query": "/api/batsmen-record/Virat kohli?"}
+{"url": "http://127.0.0.1:5000/api/batsmen-record/kohli", "query": "/api/batsmen-record/kohli?"}
+{"url": "http://127.0.0.1:5000/api/batsmen-record/V.kohli", "query": "/api/batsmen-record/V.kohli?"}
+{"url": "http://127.0.0.1:5000/api/batsmen-record/Vkohli", "query": "/api/batsmen-record/Vkohli?"}
+{"url": "http://127.0.0.1:5000/api/batsmen-record/V%20kohli", "query": "/api/batsmen-record/V kohli?"}
+{"url": "http://127.0.0.1:5000/api/batsmen-record/", "query": "/api/batsmen-record/?"}
+{"url": "http://127.0.0.1:5000/V%20kohli", "query": "/V kohli?"}
+{"url": "http://127.0.0.1:5000/favicon.ico", "query": "/favicon.ico?"}
+{"url": "http://127.0.0.1:5000/", "query": "/?"}
+{"url": "http://127.0.0.1:5000/api/batsmen-record?batsmen=V%20Kohli", "query": "/api/batsmen-record?batsmen=V%20Kohli"}
+{"url": "http://127.0.0.1:5000/api/batsmen?batsmen=V%20Kohli", "query": "/api/batsmen?batsmen=V%20Kohli"}
+{"url": "http://127.0.0.1:5000/api/bowling-record?bowler=V%20Kohli", "query": "/api/bowling-record?bowler=V%20Kohli"}
+{"url": "http://127.0.0.1:5000/api/team-record?team=Royal%20Challengers%20Bangalore", "query": "/api/team-record?team=Royal%20Challengers%20Bangalore"}
+{"url": "http://127.0.0.1:5000/api/teams", "query": "/api/teams?"}
+{"url": "http://127.0.0.1:5000/api/teams", "query": "/api/teams?"}
+{"url": "http://127.0.0.1:5000/favicon.ico", "query": "/favicon.ico?"}
+{"url": "http://127.0.0.1:5000/", "query": "/?"}
+{"url": "http://127.0.0.1:5000/", "query": "/?"}
+{"url": "http://127.0.0.1:5000/history", "query": "/history?"}
+{"url": "http://127.0.0.1:5000/api/batsmen", "query": "/api/batsmen?"}
+{"url": "http://127.0.0.1:5000/api/batsmen", "query": "/api/batsmen?"}
+{"url": "http://127.0.0.1:5000/api/bowling-record?bowler=B%20Kumar", "query": "/api/bowling-record?bowler=B%20Kumar"}
+{"url": "http://127.0.0.1:5000/bowling-record?bowler=B%20Kumar", "query": "/bowling-record?bowler=B%20Kumar"}
+{"url": "http://127.0.0.1:5000/api/batsmen-record?batsmen=V%20Kohli", "query": "/api/batsmen-record?batsmen=V%20Kohli"}
+{"url": "http://127.0.0.1:5000/api/batsmen-record?batsmen=V%20Kholi", "query": "/api/batsmen-record?batsmen=V%20Kholi"}
+{"url": "http://127.0.0.1:5000/api/batsmen-record?batsmen=V%20Kholi", "query": "/api/batsmen-record?batsmen=V%20Kholi"}
+{"url": "http://127.0.0.1:5000/api/team-record?team=Mumbai%20Indians", "query": "/api/team-record?team=Mumbai%20Indians"}
+{"url": "http://127.0.0.1:5000/api/team_record?team=Mumbai%20Indians", "query": "/api/team_record?team=Mumbai%20Indians"}
+{"url": "http://127.0.0.1:5000/api/teamvsteam?team1=Rajasthan%20Royals&team2=Royal%20Challengers%20Bangalore", "query": "/api/teamvsteam?team1=Rajasthan%20Royals&team2=Royal%20Challengers%20Bangalore"}
